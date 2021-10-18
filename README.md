@@ -1,1 +1,1 @@
-# portfolio-optimization-using-Markowitz-APMA4903-project
+# This repository is in partial fulfillment of the Columbia Engineering APMA4903 seminar class project.  Here, we use historical return data from three separate stock universes, based on the DJSI, S&P 500, and top 30 stocks by ESG score, to determine optimal asset weighting strategies on the efficient frontier of each universe.  We subsequently backtest our results on 10 years of monthly return data.    
